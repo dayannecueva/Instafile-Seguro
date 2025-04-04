@@ -1,11 +1,22 @@
-# InstaFile
-La forma más rápida de compartir un archivo. Desde donde quieras hacia donde quieras.
+# Instafile – Compartir Archivos 🧾📤
 
-## Roadmap
-- Cambiar el nombre del parametro
-- Hacerlo 100% Responsive
-- Reemplazar los espacios en blanco por (_) en los nombres de los archivos
-- Permitir cargar multiples archivos al mismo tiempo
+Aplicación web en PHP para subir, gestionar y previsualizar archivos PDF, Word e imágenes (JPG/PNG) desde el navegador.
 
-## Screenshots
-![App Screenshot](./screenshot-1.png)
+## ✅ Funciones principales
+
+- Subida de archivos permitidos (PDF, DOC, DOCX, JPG, PNG)
+- Previsualización integrada para PDF e imágenes
+- Eliminación de archivos
+- Enlace temporal personalizado
+- Límite de tamaño de archivo
+- Mensajes de éxito y error
+
+## 📸 Vista del sistema
+
+![Captura del sistema](assets/Captura-dayanne.png)
+
+## 🚀 Cómo usar
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/dayannecueva/instafile.git
